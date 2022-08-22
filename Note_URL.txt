@@ -1,2 +1,4 @@
 1. Code wards
 https://go.codewards.ru/
+2. Code combat
+https://codecombat.com/
